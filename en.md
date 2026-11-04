@@ -2,7 +2,7 @@
 
 Last updated: November 3, 2026
 
-Itqan al Quran (technical identifier: com.itqanalquran.app) is a free app that helps you memorize the Quran, with no ads, no account and no analytics. This page explains, plainly, what data the app uses, where it goes and how to delete it.
+Itqan al Quran (technical identifier: com.alilouche.itqanalquran) is a free app that helps you memorize the Quran, with no ads, no account and no analytics. This page explains, plainly, what data the app uses, where it goes and how to delete it.
 
 ## In short
 - Your data stays on your phone. The app sends it to no one.

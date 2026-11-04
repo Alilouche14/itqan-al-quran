@@ -2,7 +2,7 @@
 
 Dernière mise à jour : 3 novembre 2026
 
-Itqan al Quran (identifiant technique : com.itqanalquran.app) est une application gratuite d'aide à la mémorisation du Coran, sans publicité, sans compte et sans outil d'analyse. Cette page explique, simplement, quelles données l'application utilise, où elles vont et comment les supprimer.
+Itqan al Quran (identifiant technique : com.alilouche.itqanalquran) est une application gratuite d'aide à la mémorisation du Coran, sans publicité, sans compte et sans outil d'analyse. Cette page explique, simplement, quelles données l'application utilise, où elles vont et comment les supprimer.
 
 ## En bref
 - Vos données restent sur votre téléphone. L'application ne les envoie à personne.
