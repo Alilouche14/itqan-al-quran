@@ -1,6 +1,6 @@
 # Politique de confidentialité d'Itqan al Quran
 
-Dernière mise à jour : 3 novembre 2026
+Dernière mise à jour : 18 novembre 2026
 
 Itqan al Quran (identifiant technique : com.alilouche.itqanalquran) est une application gratuite d'aide à la mémorisation du Coran, sans publicité, sans compte et sans outil d'analyse. Cette page explique, simplement, quelles données l'application utilise, où elles vont et comment les supprimer.
 
@@ -31,9 +31,12 @@ Si vous ne souhaitez pas ce partage, ne lancez pas la vérification vocale : le 
 Internet sert à :
 - télécharger les récitations audio depuis EveryAyah (everyayah.com) : ces requêtes, comme tout téléchargement, montrent votre adresse IP à ce service ; aucun identifiant de l'application n'y est joint ;
 - la reconnaissance vocale en ligne décrite ci-dessus, selon votre téléphone.
+- télécharger, seulement si vous le demandez, les traductions et le tafsir depuis QuranEnc (quranenc.com) ;
+- télécharger, seulement si vous le demandez, le modèle de vérification des harakat depuis Hugging Face (huggingface.co).
+Ces téléchargements montrent votre adresse IP au service concerné ; aucun identifiant ni aucune donnée personnelle n'y est joint. Ensuite, ces contenus fonctionnent hors connexion.
 
 ## Liens externes
-La page Instituts propose des liens (Instagram, YouTube, WhatsApp, site web, téléphone, Google Maps). Ils s'ouvrent dans une autre application seulement si vous les touchez. Leur confidentialité relève alors de ces services.
+La page Instituts propose des liens (Instagram, YouTube, WhatsApp, Telegram, site web, téléphone, Google Maps). Ils s'ouvrent dans une autre application seulement si vous les touchez. Leur confidentialité relève alors de ces services.
 
 ## Notifications
 Les rappels sont créés sur votre téléphone, sans serveur. Vous pouvez les désactiver dans l'application ou dans Android.
