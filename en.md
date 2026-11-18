@@ -1,6 +1,6 @@
 # Itqan al Quran Privacy Policy
 
-Last updated: November 3, 2026
+Last updated: 18 November 2026
 
 Itqan al Quran (technical identifier: com.alilouche.itqanalquran) is a free app that helps you memorize the Quran, with no ads, no account and no analytics. This page explains, plainly, what data the app uses, where it goes and how to delete it.
 
@@ -30,10 +30,13 @@ If you do not want this sharing, do not start voice checking: the rest of the ap
 ## Network access
 The internet is used to:
 - download recitation audio from EveryAyah (everyayah.com): like any download, these requests reveal your IP address to that service; no app identifier is attached;
-- online speech recognition as described above, depending on your phone.
+- online speech recognition as described above, depending on your phone;
+- download, only if you ask, translations and tafsir from QuranEnc (quranenc.com);
+- download, only if you ask, the harakat check model from Hugging Face (huggingface.co).
+These downloads reveal your IP address to the service concerned; no identifier or personal data is attached. Afterwards this content works offline.
 
 ## External links
-The Institutes page offers links (Instagram, YouTube, WhatsApp, website, phone, Google Maps). They open in another app only if you tap them. Their privacy is then governed by those services.
+The Institutes page offers links (Instagram, YouTube, WhatsApp, Telegram, website, phone, Google Maps). They open in another app only if you tap them. Their privacy is then governed by those services.
 
 ## Notifications
 Reminders are created on your phone, without a server. You can turn them off in the app or in Android.
